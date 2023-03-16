@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "MfeGSp/SVz3raOkms8ucvwfa8wIdPhp+NNrnC0wa7cfF31K00CC6yt9JlyAX0HhXVlhBAx/6g+8H2rZRAxq78A==",
+  "dgSpecHash": "k3hEFnOE7USNKcC8GeeDmRikicvlWoVNMJYAtTi0/CTNNkGchFwoQyF6kkgj3x28FDqwhUBN1fn6RQBMkx7kvw==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio\\Repos\\PocketMedKit\\PocketMedKitApp\\PocketMedKitApp.csproj",
+  "projectFilePath": "C:\\D\\VladWork\\repository\\PocketMedKitApp\\PocketMedKitApp\\PocketMedKitApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\genge\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\genge\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\genge\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
-    "C:\\Users\\genge\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
-    "C:\\Users\\genge\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "C:\\Users\\genge\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "C:\\Users\\Alexandra Grodzinska\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Alexandra Grodzinska\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Alexandra Grodzinska\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Alexandra Grodzinska\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Alexandra Grodzinska\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Alexandra Grodzinska\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
   "logs": []
 }
