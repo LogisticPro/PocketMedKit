@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\D\\VladWork\\repository\\PocketMedKitApp\\PocketMedKitApp\\PocketMedKitApp.csproj": {}
+    "D:\\Visual Studio\\Repos\\PocketMedKit\\PocketMedKitApp\\PocketMedKitApp.csproj": {}
   },
   "projects": {
-    "C:\\D\\VladWork\\repository\\PocketMedKitApp\\PocketMedKitApp\\PocketMedKitApp.csproj": {
+    "D:\\Visual Studio\\Repos\\PocketMedKit\\PocketMedKitApp\\PocketMedKitApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\D\\VladWork\\repository\\PocketMedKitApp\\PocketMedKitApp\\PocketMedKitApp.csproj",
+        "projectUniqueName": "D:\\Visual Studio\\Repos\\PocketMedKit\\PocketMedKitApp\\PocketMedKitApp.csproj",
         "projectName": "PocketMedKitApp",
-        "projectPath": "C:\\D\\VladWork\\repository\\PocketMedKitApp\\PocketMedKitApp\\PocketMedKitApp.csproj",
-        "packagesPath": "C:\\Users\\Alexandra Grodzinska\\.nuget\\packages\\",
-        "outputPath": "C:\\D\\VladWork\\repository\\PocketMedKitApp\\PocketMedKitApp\\obj\\",
+        "projectPath": "D:\\Visual Studio\\Repos\\PocketMedKit\\PocketMedKitApp\\PocketMedKitApp.csproj",
+        "packagesPath": "C:\\Users\\genge\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual Studio\\Repos\\PocketMedKit\\PocketMedKitApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "D:\\Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alexandra Grodzinska\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\genge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +46,7 @@
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -54,7 +55,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -66,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
